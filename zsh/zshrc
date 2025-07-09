@@ -74,4 +74,4 @@ export PATH
 
 # Source aliases last
 [ -f ~/.zsh_aliases ] && source ~/.zsh_aliases
-zfetch
+
